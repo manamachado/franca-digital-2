@@ -1,0 +1,64 @@
+body {
+  background-color: #999;
+}
+
+div {
+  width: 200px;
+  height: 50px;
+}
+
+section {
+  float: left;
+  margin: 50px;
+}
+
+.azul {
+  background-color: blue;
+}
+
+.branco {
+  background-color: #ffffff;
+}
+
+.vermelho {
+  background-color: red;
+}
+
+.verde {
+  background-color: green;
+}
+
+.preto {
+  background-color: black;
+}
+
+.amarelo {
+  background-color: yellow;
+}
+
+.grande {
+  height: 150px;
+}
+
+.redondo {
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+}
+
+.relativo {
+  position: relative;
+}
+
+.centro {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -40px 0 0 -40px;
+}
+
+.vertical {
+  width: 75px;
+  height: 150px;
+  float: left;
+}
